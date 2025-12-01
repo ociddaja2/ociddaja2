@@ -16,7 +16,7 @@ I don’t have any public projects yet, but I’m working on improving and prepa
 - I love cats  
 - I like food so much(not fat)  
 - A Ryo Yamada Lover
-- **Hobbies:** Games, Editing, Building Something   
+- **Hobbies:** Games, Anime, Building Something   
 
 <!--
 **ociddaja2/ociddaja2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
