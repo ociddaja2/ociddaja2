@@ -10,7 +10,7 @@ I'm currently learning the fundamentals of web development and general programmi
 
 I don’t have many public projects yet, but I’m working on improving and preparing more things to share in the future.
 
-*Fun Facts 🫠*
+**Fun Facts 🫠**
 - I'm still learning everything from the ground up  
 - I enjoy experimenting even when I don't fully understand things yet  
 - I like building simple stuff and watching it grow  
