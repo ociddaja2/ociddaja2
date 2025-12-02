@@ -1,4 +1,4 @@
-# Howdy!
+# Hello!
 
 I'm **Ocid**, a student and aspiring developer.
 
