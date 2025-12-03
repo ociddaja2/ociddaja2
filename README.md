@@ -1,16 +1,16 @@
 # Hello!
 
-I'm **Ocid**, a student and aspiring developer.
+i'm **Ocid**, a student and aspiring developer.
 
-I'm currently exploring the world of programming, learning things step by step and building whatever small ideas come to mind.  
+currently exploring the world of programming, learning things step by step and building whatever small ideas come to mind.  
 
-If something sparks my curiosity, I’ll try it, break it, fix it, and learn from it along the way.
+building something if its interesting in my head.
 
-I'm currently learning the fundamentals of web development and general programming - Mostly Working on frontend.
+i'm currently learning the fundamentals of web development and general programming - Mostly Working on frontend.
 
-I work with HTML, CSS, PHP, and beginner-level Laravel while also exploring Python and Dart. I also Use figma for UI design.
+i work with HTML, CSS, PHP, and beginner-level Laravel while also exploring Python and Dart. I also Use figma for UI design.
 
-I don’t have any public projects yet, but I’m working on improving and preparing more things to share in the future.
+i don’t have any public projects yet, but I’m working on improving and preparing more things to share in the future.
 
 **Fun Facts 🫠**
 - I love cats  
