@@ -1,6 +1,6 @@
 # Hello!
 
-i'm **Ocid**, a student and aspiring developer.
+i'm **Ocid**, a student at a tech school.
 
 currently exploring the world of programming, learning things step by step and building whatever small ideas come to mind.  
 
