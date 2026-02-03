@@ -1,25 +1,17 @@
-# Hello!
+# Howdy
 
-i'm **Ocid**, a student at a tech school.
+i'm **Ocid**, a student at a tech school in Indonesia.
 
-currently exploring the world of programming, learning things step by step and building whatever small ideas come to mind.  
-
-building something if its interesting in my head.
-
-i'm currently learning the fundamentals of web development and general programming - Mostly Working on frontend.
-
-i work with HTML, CSS, PHP, and beginner-level Laravel while also exploring Python and Dart. I also Use figma for UI design.
-
-i don’t have any public projects yet, but I’m working on improving and preparing more things to share in the future.
+i work with HTML, CSS, PHP, and beginner-level Laravel while also exploring Python, Flutter framework and cyber security(need help pls🙏). I also Use figma for UI design.
 
 **Fun Facts 🫠**
 - I love cats  
-- I like food so much(not fat)  
+- I love mie ayam  
 - A Ryo Yamada Lover
 - **Hobbies:** Games, Anime, Building Something   
 
 <!--
-**ociddaja2/ociddaja2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ociddaja2/ociddaja2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
