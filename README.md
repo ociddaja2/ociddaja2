@@ -2,7 +2,7 @@
 
 i'm **Ocid**, a student at a tech school in Indonesia.
 
-i work with HTML, CSS, PHP, and beginner-level Laravel while also exploring Python, Flutter framework and cyber security(need help pls🙏). I also Use figma for UI design.
+i work with HTML, CSS, PHP, and beginner-level Laravel while also exploring Python, Flutter and cyber security(need help pls🙏). I also Use figma for UI design.
 
 **Fun Facts 🫠**
 - I love cats  
