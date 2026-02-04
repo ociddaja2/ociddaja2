@@ -4,12 +4,6 @@ i'm **Ocid**, a student at a tech school in Indonesia.
 
 i work with HTML, CSS, PHP, and beginner-level Laravel while also exploring Python, Flutter and cyber security(need help pls🙏). I also Use figma for UI design.
 
-**Fun Facts 🫠**
-- I love cats  
-- I love mie ayam  
-- A Ryo Yamada Lover
-- **Hobbies:** Games, Anime, Building Something   
-
 <!--
 **ociddaja2/ociddaja2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
