@@ -1,5 +1,5 @@
 <div align=center>
-# Howdy
+### Hi✌️
 
 i'm **Ocid**, a student at a tech school in Indonesia.
 
