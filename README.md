@@ -5,7 +5,7 @@ i'm **Ocid**, a student and programming enthusiast at a tech school in Indonesia
 
 <hr>
 
-<table border="0">
+<table border="0" style="border: none; border-collapse/: collapse;">
   <tr>
     <td align="left" valign="top">
       <h4>Programming Languages</h4>
