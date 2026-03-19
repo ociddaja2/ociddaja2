@@ -2,7 +2,7 @@
   
 ### Hi✌️
 i'm **Ocid**, a student and programming enthusiast at a tech school in Indonesia.
-
+</div>
 <hr>
 
 ### Programming Language I Use
@@ -18,8 +18,8 @@ i'm **Ocid**, a student and programming enthusiast at a tech school in Indonesia
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+<div align=right>
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ociddaja2&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 <!--
 **ociddaja2/ociddaja2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
