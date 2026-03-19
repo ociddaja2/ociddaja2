@@ -2,7 +2,11 @@
 
 i'm **Ocid**, a student at a tech school in Indonesia.
 
-i work with HTML, CSS, PHP, and beginner-level Laravel while also exploring Python, Flutter and cyber security(need help pls🙏). I also Use figma for UI design.
+### Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <!--
 **ociddaja2/ociddaja2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
