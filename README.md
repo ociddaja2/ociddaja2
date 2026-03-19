@@ -1,5 +1,6 @@
-<div align=center>  
-### Hi✌️
+<div align=center>
+
+### Hi✌️  
 i'm **Ocid**, a student and programming enthusiast at a tech school in Indonesia.
 
 <hr>
