@@ -5,7 +5,7 @@ i'm **Ocid**, a student and programming enthusiast at a tech school in Indonesia
 
 <hr>
 
-### Programming Language I Use
+### Programming Language I Work With
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
