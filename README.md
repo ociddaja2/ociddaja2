@@ -1,5 +1,4 @@
-<div align=center>
-  
+<div align=center>  
 ### Hi✌️
 i'm **Ocid**, a student and programming enthusiast at a tech school in Indonesia.
 
@@ -19,6 +18,8 @@ i'm **Ocid**, a student and programming enthusiast at a tech school in Indonesia
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <hr>
+
+### Activity
 
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ociddaja2&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
