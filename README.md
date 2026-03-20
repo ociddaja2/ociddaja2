@@ -7,10 +7,10 @@ i'm **Ocid**, a student and programming enthusiast at a tech school in Indonesia
 
 ### Programming Language I Work With
 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-  ![DART](https://img.shields.io/badge/-Dart-333333?style=for-the-badge&logo=Dart&logoColor=white)
+  ![DART](https://img.shields.io/badge/-Dart-333333?style=for-the-badge&logo=Dart&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Runtimes
