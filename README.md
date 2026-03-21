@@ -1,6 +1,6 @@
 
-### Hi✌️  
-i'm **Ocid**, a student and programming enthusiast at a tech school in Indonesia.
+<h1> Hi✌️, Im Cidra Hasna </h1>
+### a student and programming enthusiast at a tech school in Indonesia.
 
 <hr>
 
