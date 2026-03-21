@@ -1,4 +1,3 @@
-<div align=center>
 
 ### Hi✌️  
 i'm **Ocid**, a student and programming enthusiast at a tech school in Indonesia.
@@ -25,4 +24,4 @@ i'm **Ocid**, a student and programming enthusiast at a tech school in Indonesia
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ociddaja2&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+
