@@ -1,5 +1,5 @@
 
-<h1> Hi✌️, Im Cidra Hasna </h1>
+<h1> Hi✌️, Im Ocid </h1>
 a student and programming enthusiast at a tech school in Indonesia.
 
 <hr>
