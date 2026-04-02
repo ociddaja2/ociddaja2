@@ -17,11 +17,3 @@ a student and programming enthusiast at a tech school in Indonesia.
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-<hr>
-
-### Activity
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ociddaja2&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
