@@ -1,8 +1,8 @@
-📛 Ocid/Rosyid
-🚩 student and programming enthusiast at a tech school.
+📛 Ocid/Rosyid<br>
+🚩 student and programming enthusiast at a tech school.<br>
 ❤️ Stay Alive [今すぐコーディングを始めましょう]
 
-Programming Language I Work With
+## Programming Language I Work With
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
