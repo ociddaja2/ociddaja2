@@ -1,6 +1,6 @@
-📛 Ocid/Rosyid<br>
+📛 <i>Ocid / Rosyid</i><br>
 🚩 student and programming enthusiast at a tech school.<br>
-❤️ Stay Alive [今すぐコーディングを始めましょう]
+❤️ <b>Stay Alive</b> [<i>今すぐコーディングを始めましょう</i>]
 
 ## Programming Language I Work With
 
