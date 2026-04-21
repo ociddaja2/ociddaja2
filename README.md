@@ -11,7 +11,6 @@ a student and programming enthusiast at a tech school in Indonesia.
   ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
   ![DART](https://img.shields.io/badge/-Dart-333333?style=for-the-badge&logo=Dart&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![ARDUINO](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff)
 
 ### Frameworks & Runtimes
 
