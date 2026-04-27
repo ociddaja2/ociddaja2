@@ -1,12 +1,9 @@
-📛 <i>Ocid / Rosyid</i><br>
-💠 student and programming enthusiast at a tech school.<br>
+📛 Ocid / <a href="https://ociddaja2.vercel.app/"><i>Rosyid</i></a><br>
+💠 Indonesia, South Borneo.<br>
 💙 <b>Stay Alive</b> [<i>今すぐコーディングを始めましょう</i>]
 
-## Programming Language I Work With
+<hr>
 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-  ![DART](https://img.shields.io/badge/-Dart-333333?style=for-the-badge&logo=Dart&logoColor=white)
-  ![ARDUINO](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<h4><b>About Me</b></h4>
+
+  <p>Hello, Im Rosyid Ifni Andriansyah or you can call me Ocid or Andrian. Im a student at <b>SMK Telkom Banjarbaru</b> in <b>South Borneo/Kalimantan</b>. Im interested in web, app, and game development. Currently, Im focusing on mobile app development using Flutter and Dart, UI components using React and Astro, and cybersecurity.</p>
