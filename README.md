@@ -24,4 +24,4 @@
   <li>☁️ <b>Cloud & AI:</b> Google Cloud Platform, Ollama</li>
   <li>⚙️ <b>Environment & Others:</b> Linux (Arch), VS Code, Bruno, Figma</li>
 </ul>
-<hr>
+
