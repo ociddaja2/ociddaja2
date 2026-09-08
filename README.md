@@ -25,3 +25,12 @@
   <li>⚙️ <b>Environment & Others:</b> Linux (Arch), Neovim, Vs Code, Bruno, Figma</li>
 </ul>
 
+<hr>
+
+<div align="center">
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lz2c4qweuph3vn4rdlld75ughm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
+  </a>
+</p>
+</div>
