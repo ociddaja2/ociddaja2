@@ -22,6 +22,6 @@
   <li>🗄️ <b>Databases:</b> MySQL, PostgreSQL, Supabase, SQLite, Firebase(im not rich)</li>
   <li>🚀 <b>DevOps & Tools:</b> Git, GitHub Actions, Docker</li>
   <li>☁️ <b>Cloud & AI:</b> Google Cloud Platform, Ollama</li>
-  <li>⚙️ <b>Environment & Others:</b> Linux (Arch), VS Code, Bruno, Figma</li>
+  <li>⚙️ <b>Environment & Others:</b> Linux (Arch), Neovim, Vs Code, Bruno, Figma</li>
 </ul>
 
