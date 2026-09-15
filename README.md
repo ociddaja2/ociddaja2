@@ -14,23 +14,12 @@
 
 <hr>
 
-<h3>🛠️ Technical Skills</h3>
-
+<h3>Technical Skills</h3>
 <ul>
   <li>💻 <b>Languages:</b> Python, PHP, Go, JavaScript, Dart</li>
   <li>📱 <b>Mobile & Web:</b> Android, Flutter, Laravel, Express.js, Go Fiber</li>
-  <li>🗄️ <b>Databases:</b> MySQL, PostgreSQL, Supabase, SQLite, Firebase(im not rich)</li>
-  <li>🚀 <b>DevOps & Tools:</b> Git, GitHub Actions, Docker</li>
-  <li>☁️ <b>Cloud & AI:</b> Google Cloud Platform, Ollama</li>
+  <li>🗄️ <b>Databases:</b> MySQL, PostgreSQL, Supabase, SQLite, Firebase (im not rich)</li>
+  <li>🚀 <b>DevOps & Tools:</b> Git, GitHub Actions</li>
+  <!-- <li>☁️ <b>Cloud & AI:</b> Google Cloud Platform, Ollama</li> -->
   <li>⚙️ <b>Environment & Others:</b> Linux (Arch), Neovim, Vs Code, Bruno, Figma</li>
 </ul>
-
-<hr>
-
-<div align="center">
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lz2c4qweuph3vn4rdlld75ughm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
-  </a>
-</p>
-</div>
