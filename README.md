@@ -1,5 +1,5 @@
 📛 Ocid / <a href="https://ociddaja2.vercel.app/"><i>Rosyid</i></a><br>
-💠 Indonesia, South Borneo.<br>
+💠 ENG | <a href="README-ID.md">IDN</a><br>
 💙 <b>Software Engineering Student</b> [<i>今すぐコーディングを始めましょう</i>]
 
 <hr>
