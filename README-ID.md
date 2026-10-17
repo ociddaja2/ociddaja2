@@ -4,7 +4,7 @@
 
 <hr>
 
-<h4><b>Tentang Aku</b></h4>
+<h3><b>Tentang Aku</b></h3>
 
 <p>Halo! Aku Rosyid Ifni Andriansyah (Ocid / Andrian), siswa jurusan Rekayasa Perangkat Lunak di SMK Telkom Banjarbaru, Kalimantan Selatan.</p>
 
