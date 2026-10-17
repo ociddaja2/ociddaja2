@@ -4,7 +4,7 @@
 
 <hr>
 
-<h4><b>About Me</b></h4>
+<h3><b>About Me</b></h3>
 
 <p>Hello! I'm Rosyid Ifni Andriansyah (Ocid / Andrian), a student majoring in Software Engineering at SMK Telkom Banjarbaru, South Borneo.</p>
 
